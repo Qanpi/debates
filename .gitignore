@@ -1,4 +1,6 @@
 .venv
 .env
 .DS_store
-data/
+credentials.json
+
+motions/data/motions_with_embeddings.csv
